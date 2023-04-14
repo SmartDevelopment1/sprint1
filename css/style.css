@@ -1,4 +1,5 @@
 body{
+
     height: 1360px;
     background-color: #0D67B5;
     background-size: 100%;
@@ -15,3 +16,10 @@ body{
 
 
 
+    background-color: #0D67B5;     
+    height: 85px;
+    background-image: url(../img/smartfundo.jpg);
+}
+#soluções{
+    color: white;
+}
