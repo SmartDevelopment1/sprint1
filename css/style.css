@@ -1,4 +1,21 @@
 body{
+
+    height: 1360px;
+    background-color: #0D67B5;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position:  0px 126px;
+    background-image:url(../img/fundo.jpg);  
+    color: white;
+    background-size: 100%;
+}
+.container{
+    display:flex; 
+    justify-content:space-around;
+}
+
+
+
     background-color: #0D67B5;     
     height: 85px;
     background-image: url(../img/smartfundo.jpg);
