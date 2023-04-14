@@ -1,6 +1,6 @@
 # sprint1
 // Primeiro sprint de Web development with Javascript
-
+//Não houve commit por parte do Lucas Vital, motivo: não participou do projeto.
 
 // RM:98952 - Rodrigo Brasileiro
 // RM:551040 - Lucas Vital Ribeiro
