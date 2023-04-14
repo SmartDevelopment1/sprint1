@@ -1,3 +1,6 @@
+
+const h1Element = document.getElementById ("soluções")
+
 const h1Element = document.getElementById ("Soluções")
 
 h1Element.addEventListener("mouseover", ()=>{
