@@ -1,0 +1,9 @@
+body{
+
+    background-color: #0D67B5;
+    height: 85px;
+    background-repeat: no-repeat;
+    background-position:  0px 80px;
+    background-image:url(../sprint1-3/js/img/smartfundo.jpg);
+    color: white;
+}
