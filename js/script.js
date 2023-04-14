@@ -1,4 +1,7 @@
+
 const h1Element = document.getElementById ("soluções")
+
+const h1Element = document.getElementById ("Soluções")
 
 h1Element.addEventListener("mouseover", ()=>{
     h1Element.style.color = "#808080";
