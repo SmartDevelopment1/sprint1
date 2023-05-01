@@ -1,12 +1,6 @@
 
 const h1Element = document.getElementById ("Quemsomos")
 
-
-const h1Element = document.getElementById ("soluções")
-
-const h1Element = document.getElementById ("Soluções")
-
-
 h1Element.addEventListener("mouseover", ()=>{
     h1Element.style.color = "#808080";
 })
@@ -75,7 +69,7 @@ h6Element.addEventListener("mouseout", ()=>{
 
 
    h1Element.style.color = "#000000";
-})
+
 
 h1Element.addEventListener("mouseout", alteraCorFundo)
 
